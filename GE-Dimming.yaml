@@ -1,5 +1,5 @@
 blueprint:
-  name: GE/Jasco 46201 / ZW4008 Switch (Z-Wave JS) v0.02
+  name: GE/Jasco 46203 / ZW3010 Switch (Z-Wave JS) v0.02
   description: Create automations for the GE/Jasco Switches using the Z-Wave JS integration.
   domain: automation
   input:
