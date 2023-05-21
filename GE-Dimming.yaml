@@ -10,7 +10,7 @@ blueprint:
         device:
           integration: zwave_js
           manufacturer: GE/Enbrighten
-          model: 46201 / ZW3010
+          model: 46203 / ZW3010
     tap_1x_up:
       name: Tap 1x Up
       description: Action to run when Up button is pressed 1 time.
