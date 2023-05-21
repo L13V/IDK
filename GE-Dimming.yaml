@@ -8,9 +8,7 @@ blueprint:
       description: List of available GE/Jasco 46201 / ZW4008 switches
       selector:
         device:
-          integration: zwave_js
           manufacturer: GE/Enbrighten
-          model: 46203 / ZW3010
     tap_1x_up:
       name: Tap 1x Up
       description: Action to run when Up button is pressed 1 time.
